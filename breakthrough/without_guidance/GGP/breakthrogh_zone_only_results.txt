@@ -1,0 +1,222 @@
+Starting 200-game Breakthrough MCVS vs UCT tournament
+Game   1/200 | MCVS       (moves= 87) | MCVS wins:   1 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 20 | ETA: 447.1 min
+Game   2/200 | UCT        (moves= 49) | MCVS wins:   1 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 37 | ETA: 349.0 min
+Game   3/200 | MCVS       (moves= 63) | MCVS wins:   2 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 59 | ETA: 339.5 min
+Game   4/200 | UCT        (moves= 83) | MCVS wins:   2 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 85 | ETA: 358.5 min
+Game   5/200 | MCVS       (moves= 85) | MCVS wins:   3 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 116 | ETA: 371.5 min
+Game   6/200 | UCT        (moves= 53) | MCVS wins:   3 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 132 | ETA: 353.4 min
+Game   7/200 | MCVS       (moves= 47) | MCVS wins:   4 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 141 | ETA: 335.7 min
+Game   8/200 | MCVS       (moves= 50) | MCVS wins:   5 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 158 | ETA: 323.6 min
+Game   9/200 | MCVS       (moves= 71) | MCVS wins:   6 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 183 | ETA: 325.6 min
+Game  10/200 | MCVS       (moves= 14) | MCVS wins:   7 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 191 | ETA: 298.6 min
+Game  11/200 | MCVS       (moves= 93) | MCVS wins:   8 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 219 | ETA: 311.8 min
+Game  12/200 | MCVS       (moves= 40) | MCVS wins:   9 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 240 | ETA: 300.8 min
+Game  13/200 | MCVS       (moves= 71) | MCVS wins:  10 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 266 | ETA: 303.2 min
+Game  14/200 | UCT        (moves= 51) | MCVS wins:  10 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 285 | ETA: 297.9 min
+Game  15/200 | MCVS       (moves= 91) | MCVS wins:  11 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 308 | ETA: 305.7 min
+Game  16/200 | MCVS       (moves= 46) | MCVS wins:  12 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 318 | ETA: 298.9 min
+Game  17/200 | MCVS       (moves= 89) | MCVS wins:  13 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 342 | ETA: 304.8 min
+Game  18/200 | MCVS       (moves= 36) | MCVS wins:  14 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 352 | ETA: 295.9 min
+Game  19/200 | MCVS       (moves= 75) | MCVS wins:  15 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 366 | ETA: 297.5 min
+Game  20/200 | UCT        (moves= 69) | MCVS wins:  15 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 386 | ETA: 297.3 min
+Game  21/200 | MCVS       (moves= 83) | MCVS wins:  16 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 411 | ETA: 300.0 min
+Game  22/200 | MCVS       (moves= 56) | MCVS wins:  17 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 434 | ETA: 296.7 min
+Game  23/200 | MCVS       (moves= 95) | MCVS wins:  18 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 464 | ETA: 301.2 min
+Game  24/200 | MCVS       (moves= 50) | MCVS wins:  19 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 481 | ETA: 296.6 min
+Game  25/200 | MCVS       (moves= 89) | MCVS wins:  20 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 509 | ETA: 299.3 min
+Game  26/200 | MCVS       (moves= 32) | MCVS wins:  21 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 520 | ETA: 291.7 min
+Game  27/200 | MCVS       (moves= 45) | MCVS wins:  22 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 540 | ETA: 287.0 min
+Game  28/200 | MCVS       (moves= 38) | MCVS wins:  23 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 552 | ETA: 281.3 min
+Game  29/200 | MCVS       (moves= 93) | MCVS wins:  24 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 582 | ETA: 284.3 min
+Game  30/200 | MCVS       (moves= 34) | MCVS wins:  25 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 590 | ETA: 278.3 min
+Game  31/200 | MCVS       (moves= 81) | MCVS wins:  26 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 610 | ETA: 279.3 min
+Game  32/200 | UCT        (moves= 89) | MCVS wins:  26 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 640 | ETA: 281.0 min
+Game  33/200 | MCVS       (moves= 41) | MCVS wins:  27 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 654 | ETA: 276.2 min
+Game  34/200 | MCVS       (moves= 34) | MCVS wins:  28 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 668 | ETA: 270.8 min
+Game  35/200 | MCVS       (moves= 65) | MCVS wins:  29 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 685 | ETA: 269.4 min
+Game  36/200 | UCT        (moves= 45) | MCVS wins:  29 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 697 | ETA: 265.7 min
+Game  37/200 | MCVS       (moves= 93) | MCVS wins:  30 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 721 | ETA: 267.5 min
+Game  38/200 | MCVS       (moves= 28) | MCVS wins:  31 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 729 | ETA: 262.0 min
+Game  39/200 | MCVS       (moves= 51) | MCVS wins:  32 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 748 | ETA: 259.2 min
+Game  40/200 | UCT        (moves= 55) | MCVS wins:  32 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 763 | ETA: 256.8 min
+Game  41/200 | MCVS       (moves= 93) | MCVS wins:  33 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 787 | ETA: 258.3 min
+Game  42/200 | UCT        (moves= 49) | MCVS wins:  33 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 810 | ETA: 255.3 min
+Game  43/200 | MCVS       (moves= 85) | MCVS wins:  34 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 836 | ETA: 255.8 min
+Game  44/200 | UCT        (moves= 43) | MCVS wins:  34 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 847 | ETA: 252.3 min
+Game  45/200 | MCVS       (moves= 85) | MCVS wins:  35 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 878 | ETA: 252.7 min
+Game  46/200 | UCT        (moves= 33) | MCVS wins:  35 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 888 | ETA: 248.5 min
+Game  47/200 | MCVS       (moves= 73) | MCVS wins:  36 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 909 | ETA: 247.8 min
+Game  48/200 | MCVS       (moves= 22) | MCVS wins:  37 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 922 | ETA: 242.8 min
+Game  49/200 | MCVS       (moves= 71) | MCVS wins:  38 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 941 | ETA: 242.0 min
+Game  50/200 | UCT        (moves= 35) | MCVS wins:  38 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 955 | ETA: 238.3 min
+Game  51/200 | MCVS       (moves= 79) | MCVS wins:  39 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 976 | ETA: 238.0 min
+Game  52/200 | MCVS       (moves= 28) | MCVS wins:  40 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 981 | ETA: 233.9 min
+Game  53/200 | MCVS       (moves= 69) | MCVS wins:  41 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1006 | ETA: 232.9 min
+Game  54/200 | UCT        (moves= 65) | MCVS wins:  41 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1020 | ETA: 231.6 min
+Game  55/200 | MCVS       (moves= 41) | MCVS wins:  42 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1038 | ETA: 228.6 min
+Game  56/200 | MCVS       (moves= 32) | MCVS wins:  43 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1052 | ETA: 225.2 min
+Game  57/200 | MCVS       (moves= 79) | MCVS wins:  44 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1085 | ETA: 224.8 min
+Game  58/200 | UCT        (moves= 53) | MCVS wins:  44 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1103 | ETA: 222.7 min
+Game  59/200 | MCVS       (moves= 71) | MCVS wins:  45 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1124 | ETA: 221.8 min
+Game  60/200 | MCVS       (moves= 44) | MCVS wins:  46 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1143 | ETA: 219.2 min
+Game  61/200 | MCVS       (moves= 53) | MCVS wins:  47 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1159 | ETA: 217.2 min
+Game  62/200 | MCVS       (moves= 28) | MCVS wins:  48 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1171 | ETA: 213.8 min
+Game  63/200 | MCVS       (moves= 53) | MCVS wins:  49 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1193 | ETA: 211.9 min
+Game  64/200 | UCT        (moves= 47) | MCVS wins:  49 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1208 | ETA: 209.7 min
+Game  65/200 | MCVS       (moves= 79) | MCVS wins:  50 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1240 | ETA: 209.1 min
+Game  66/200 | UCT        (moves= 51) | MCVS wins:  50 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1258 | ETA: 207.1 min
+Game  67/200 | MCVS       (moves= 89) | MCVS wins:  51 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1284 | ETA: 207.1 min
+Game  68/200 | UCT        (moves= 65) | MCVS wins:  51 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1301 | ETA: 205.7 min
+Game  69/200 | MCVS       (moves= 25) | MCVS wins:  52 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1312 | ETA: 202.4 min
+Game  70/200 | UCT        (moves= 39) | MCVS wins:  52 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1323 | ETA: 199.9 min
+Game  71/200 | MCVS       (moves= 85) | MCVS wins:  53 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1348 | ETA: 199.6 min
+Game  72/200 | UCT        (moves= 59) | MCVS wins:  53 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1365 | ETA: 198.0 min
+Game  73/200 | MCVS       (moves= 99) | MCVS wins:  54 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1390 | ETA: 198.2 min
+Game  74/200 | MCVS       (moves= 44) | MCVS wins:  55 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1402 | ETA: 196.0 min
+Game  75/200 | MCVS       (moves= 71) | MCVS wins:  56 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1424 | ETA: 194.9 min
+Game  76/200 | UCT        (moves= 65) | MCVS wins:  56 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1443 | ETA: 193.5 min
+Game  77/200 | MCVS       (moves= 69) | MCVS wins:  57 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1463 | ETA: 192.3 min
+Game  78/200 | MCVS       (moves= 34) | MCVS wins:  58 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1474 | ETA: 189.7 min
+Game  79/200 | MCVS       (moves= 93) | MCVS wins:  59 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1504 | ETA: 189.4 min
+Game  80/200 | UCT        (moves= 63) | MCVS wins:  59 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1528 | ETA: 187.9 min
+Game  81/200 | MCVS       (moves= 83) | MCVS wins:  60 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1552 | ETA: 187.2 min
+Game  82/200 | MCVS       (moves= 36) | MCVS wins:  61 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1563 | ETA: 184.8 min
+Game  83/200 | MCVS       (moves= 67) | MCVS wins:  62 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1585 | ETA: 183.4 min
+Game  84/200 | UCT        (moves= 27) | MCVS wins:  62 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1593 | ETA: 180.7 min
+Game  85/200 | MCVS       (moves= 91) | MCVS wins:  63 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1616 | ETA: 180.2 min
+Game  86/200 | MCVS       (moves= 34) | MCVS wins:  64 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1629 | ETA: 177.7 min
+Game  87/200 | MCVS       (moves= 83) | MCVS wins:  65 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1652 | ETA: 176.9 min
+Game  88/200 | MCVS       (moves= 20) | MCVS wins:  66 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1661 | ETA: 174.0 min
+Game  89/200 | MCVS       (moves= 39) | MCVS wins:  67 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1672 | ETA: 171.8 min
+Game  90/200 | MCVS       (moves= 18) | MCVS wins:  68 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1679 | ETA: 169.0 min
+Game  91/200 | MCVS       (moves= 81) | MCVS wins:  69 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1705 | ETA: 168.1 min
+Game  92/200 | MCVS       (moves= 14) | MCVS wins:  70 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1710 | ETA: 165.2 min
+Game  93/200 | MCVS       (moves= 87) | MCVS wins:  71 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1749 | ETA: 164.5 min
+Game  94/200 | MCVS       (moves= 42) | MCVS wins:  72 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1767 | ETA: 162.4 min
+Game  95/200 | MCVS       (moves= 87) | MCVS wins:  73 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1791 | ETA: 161.7 min
+Game  96/200 | MCVS       (moves= 18) | MCVS wins:  74 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1799 | ETA: 159.0 min
+Game  97/200 | MCVS       (moves= 79) | MCVS wins:  75 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1822 | ETA: 158.0 min
+Game  98/200 | MCVS       (moves= 30) | MCVS wins:  76 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1836 | ETA: 155.7 min
+Game  99/200 | MCVS       (moves= 81) | MCVS wins:  77 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1851 | ETA: 154.8 min
+Game 100/200 | UCT        (moves= 71) | MCVS wins:  77 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1877 | ETA: 153.5 min
+Game 101/200 | MCVS       (moves= 89) | MCVS wins:  78 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1906 | ETA: 152.8 min
+Game 102/200 | MCVS       (moves= 38) | MCVS wins:  79 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1915 | ETA: 150.7 min
+Game 103/200 | MCVS       (moves= 83) | MCVS wins:  80 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1939 | ETA: 149.7 min
+Game 104/200 | UCT        (moves= 21) | MCVS wins:  80 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1947 | ETA: 147.3 min
+Game 105/200 | MCVS       (moves= 83) | MCVS wins:  81 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1966 | ETA: 146.3 min
+Game 106/200 | MCVS       (moves= 38) | MCVS wins:  82 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 1978 | ETA: 144.3 min
+Game 107/200 | MCVS       (moves= 75) | MCVS wins:  83 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2006 | ETA: 143.1 min
+Game 108/200 | UCT        (moves= 43) | MCVS wins:  83 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2018 | ETA: 141.2 min
+Game 109/200 | MCVS       (moves= 61) | MCVS wins:  84 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2039 | ETA: 139.7 min
+Game 110/200 | MCVS       (moves= 84) | MCVS wins:  85 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2059 | ETA: 138.7 min
+Game 111/200 | MCVS       (moves= 91) | MCVS wins:  86 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2089 | ETA: 137.8 min
+Game 112/200 | MCVS       (moves= 52) | MCVS wins:  87 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2104 | ETA: 136.1 min
+Game 113/200 | MCVS       (moves= 51) | MCVS wins:  88 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2124 | ETA: 134.4 min
+Game 114/200 | UCT        (moves= 69) | MCVS wins:  88 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2142 | ETA: 133.0 min
+Game 115/200 | MCVS       (moves= 61) | MCVS wins:  89 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2156 | ETA: 131.5 min
+Game 116/200 | UCT        (moves= 47) | MCVS wins:  89 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2170 | ETA: 129.7 min
+Game 117/200 | MCVS       (moves= 73) | MCVS wins:  90 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2205 | ETA: 128.4 min
+Game 118/200 | UCT        (moves= 37) | MCVS wins:  90 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2217 | ETA: 126.5 min
+Game 119/200 | MCVS       (moves= 87) | MCVS wins:  91 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2247 | ETA: 125.4 min
+Game 120/200 | MCVS       (moves= 36) | MCVS wins:  92 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2261 | ETA: 123.5 min
+Game 121/200 | MCVS       (moves= 87) | MCVS wins:  93 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2291 | ETA: 122.4 min
+Game 122/200 | UCT        (moves= 99) | MCVS wins:  93 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2321 | ETA: 121.5 min
+Game 123/200 | MCVS       (moves= 71) | MCVS wins:  94 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2348 | ETA: 120.1 min
+Game 124/200 | MCVS       (moves= 28) | MCVS wins:  95 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2356 | ETA: 118.0 min
+Game 125/200 | MCVS       (moves= 87) | MCVS wins:  96 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2383 | ETA: 116.9 min
+Game 126/200 | UCT        (moves= 41) | MCVS wins:  96 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2400 | ETA: 115.0 min
+Game 127/200 | MCVS       (moves= 59) | MCVS wins:  97 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2412 | ETA: 113.5 min
+Game 128/200 | UCT        (moves= 47) | MCVS wins:  97 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2430 | ETA: 111.7 min
+Game 129/200 | MCVS       (moves= 69) | MCVS wins:  98 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2453 | ETA: 110.3 min
+Game 130/200 | UCT        (moves= 13) | MCVS wins:  98 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2458 | ETA: 108.1 min
+Game 131/200 | MCVS       (moves= 79) | MCVS wins:  99 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2474 | ETA: 106.8 min
+Game 132/200 | UCT        (moves= 35) | MCVS wins:  99 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2487 | ETA: 105.0 min
+Game 133/200 | MCVS       (moves= 83) | MCVS wins: 100 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2518 | ETA: 103.7 min
+Game 134/200 | MCVS       (moves= 36) | MCVS wins: 101 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2528 | ETA: 101.9 min
+Game 135/200 | MCVS       (moves= 85) | MCVS wins: 102 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2546 | ETA: 100.6 min
+Game 136/200 | UCT        (moves= 67) | MCVS wins: 102 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2569 | ETA: 99.2 min
+Game 137/200 | MCVS       (moves= 49) | MCVS wins: 103 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2590 | ETA: 97.5 min
+Game 138/200 | UCT        (moves= 85) | MCVS wins: 103 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2615 | ETA: 96.2 min
+Game 139/200 | MCVS       (moves= 87) | MCVS wins: 104 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2650 | ETA: 95.0 min
+Game 140/200 | UCT        (moves= 25) | MCVS wins: 104 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2659 | ETA: 93.1 min
+Game 141/200 | MCVS       (moves= 85) | MCVS wins: 105 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2688 | ETA: 91.8 min
+Game 142/200 | MCVS       (moves= 46) | MCVS wins: 106 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2700 | ETA: 90.1 min
+Game 143/200 | MCVS       (moves= 67) | MCVS wins: 107 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2731 | ETA: 88.6 min
+Game 144/200 | UCT        (moves= 41) | MCVS wins: 107 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2747 | ETA: 86.9 min
+Game 145/200 | MCVS       (moves= 79) | MCVS wins: 108 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2769 | ETA: 85.5 min
+Game 146/200 | UCT        (moves= 41) | MCVS wins: 108 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2784 | ETA: 83.8 min
+Game 147/200 | MCVS       (moves= 83) | MCVS wins: 109 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2818 | ETA: 82.4 min
+Game 148/200 | UCT        (moves= 55) | MCVS wins: 109 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2835 | ETA: 80.8 min
+Game 149/200 | MCVS       (moves= 65) | MCVS wins: 110 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2855 | ETA: 79.3 min
+Game 150/200 | MCVS       (moves= 18) | MCVS wins: 111 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2863 | ETA: 77.4 min
+Game 151/200 | MCVS       (moves= 77) | MCVS wins: 112 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2887 | ETA: 76.0 min
+Game 152/200 | MCVS       (moves= 28) | MCVS wins: 113 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2895 | ETA: 74.2 min
+Game 153/200 | MCVS       (moves= 81) | MCVS wins: 114 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2922 | ETA: 72.8 min
+Game 154/200 | UCT        (moves= 53) | MCVS wins: 114 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2941 | ETA: 71.2 min
+Game 155/200 | MCVS       (moves= 93) | MCVS wins: 115 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2967 | ETA: 69.9 min
+Game 156/200 | UCT        (moves= 57) | MCVS wins: 115 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 2985 | ETA: 68.4 min
+Game 157/200 | MCVS       (moves= 85) | MCVS wins: 116 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3011 | ETA: 67.0 min
+Game 158/200 | UCT        (moves= 53) | MCVS wins: 116 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3022 | ETA: 65.4 min
+Game 159/200 | MCVS       (moves= 67) | MCVS wins: 117 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3042 | ETA: 63.9 min
+Game 160/200 | MCVS       (moves= 50) | MCVS wins: 118 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3060 | ETA: 62.2 min
+Game 161/200 | MCVS       (moves= 69) | MCVS wins: 119 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3084 | ETA: 60.8 min
+Game 162/200 | MCVS       (moves= 50) | MCVS wins: 120 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3098 | ETA: 59.1 min
+Game 163/200 | MCVS       (moves= 83) | MCVS wins: 121 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3120 | ETA: 57.7 min
+Game 164/200 | UCT        (moves= 57) | MCVS wins: 121 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3137 | ETA: 56.1 min
+Game 165/200 | MCVS       (moves= 87) | MCVS wins: 122 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3158 | ETA: 54.7 min
+Game 166/200 | UCT        (moves= 43) | MCVS wins: 122 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3176 | ETA: 53.1 min
+Game 167/200 | MCVS       (moves= 95) | MCVS wins: 123 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3217 | ETA: 51.7 min
+Game 168/200 | UCT        (moves= 41) | MCVS wins: 123 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3228 | ETA: 50.0 min
+Game 169/200 | MCVS       (moves= 95) | MCVS wins: 124 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3260 | ETA: 48.6 min
+Game 170/200 | MCVS       (moves= 58) | MCVS wins: 125 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3281 | ETA: 47.1 min
+Game 171/200 | MCVS       (moves= 83) | MCVS wins: 126 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3309 | ETA: 45.6 min
+Game 172/200 | MCVS       (moves= 44) | MCVS wins: 127 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3323 | ETA: 43.9 min
+Game 173/200 | MCVS       (moves= 81) | MCVS wins: 128 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3342 | ETA: 42.5 min
+Game 174/200 | UCT        (moves= 27) | MCVS wins: 128 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3351 | ETA: 40.8 min
+Game 175/200 | MCVS       (moves= 85) | MCVS wins: 129 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3377 | ETA: 39.3 min
+Game 176/200 | MCVS       (moves= 52) | MCVS wins: 130 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3388 | ETA: 37.7 min
+Game 177/200 | MCVS       (moves= 95) | MCVS wins: 131 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3428 | ETA: 36.2 min
+Game 178/200 | UCT        (moves= 51) | MCVS wins: 131 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3445 | ETA: 34.6 min
+Game 179/200 | MCVS       (moves= 57) | MCVS wins: 132 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3464 | ETA: 33.0 min
+Game 180/200 | MCVS       (moves= 46) | MCVS wins: 133 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3480 | ETA: 31.4 min
+Game 181/200 | MCVS       (moves= 89) | MCVS wins: 134 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3511 | ETA: 29.9 min
+Game 182/200 | MCVS       (moves= 64) | MCVS wins: 135 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3535 | ETA: 28.4 min
+Game 183/200 | MCVS       (moves= 77) | MCVS wins: 136 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3562 | ETA: 26.8 min
+Game 184/200 | MCVS       (moves= 42) | MCVS wins: 137 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3579 | ETA: 25.2 min
+Game 185/200 | MCVS       (moves= 75) | MCVS wins: 138 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3603 | ETA: 23.7 min
+Game 186/200 | UCT        (moves= 37) | MCVS wins: 138 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3614 | ETA: 22.0 min
+Game 187/200 | MCVS       (moves= 75) | MCVS wins: 139 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3638 | ETA: 20.5 min
+Game 188/200 | UCT        (moves= 59) | MCVS wins: 139 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3659 | ETA: 18.9 min
+Game 189/200 | MCVS       (moves= 91) | MCVS wins: 140 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3689 | ETA: 17.4 min
+Game 190/200 | UCT        (moves= 73) | MCVS wins: 140 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3709 | ETA: 15.8 min
+Game 191/200 | MCVS       (moves= 71) | MCVS wins: 141 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3733 | ETA: 14.3 min
+Game 192/200 | UCT        (moves= 43) | MCVS wins: 141 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3748 | ETA: 12.7 min
+Game 193/200 | MCVS       (moves= 71) | MCVS wins: 142 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3765 | ETA: 11.1 min
+Game 194/200 | UCT        (moves= 55) | MCVS wins: 142 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3787 | ETA: 9.5 min
+Game 195/200 | MCVS       (moves= 71) | MCVS wins: 143 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3808 | ETA: 7.9 min
+Game 196/200 | UCT        (moves= 47) | MCVS wins: 143 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3819 | ETA: 6.3 min
+Game 197/200 | MCVS       (moves= 75) | MCVS wins: 144 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3845 | ETA: 4.8 min
+Game 198/200 | UCT        (moves= 77) | MCVS wins: 144 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3865 | ETA: 3.2 min
+Game 199/200 | MCVS       (moves= 39) | MCVS wins: 145 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3877 | ETA: 1.6 min
+Game 200/200 | MCVS       (moves= 32) | MCVS wins: 146 | Draws:   0 | Queue: 0 | Learned: 0 | DB: 3890 | ETA: 0.0 min
+
+================================================================================
+TOURNAMENT SUMMARY
+================================================================================
+
+MCVS (λ-PUCT): 146 wins
+UCT (Standard): 54 wins
+Draws: 0
+Total: 200
+
+MCVS Win Rate (excluding draws): 73.0%
+Avg moves (MCVS wins): 64.0
+Avg moves (UCT wins): 51.8
+
+MCVS White: 100, Black: 46
+UCT White: 54, Black: 0
+
+================================================================================
+Tournament Duration: 315.8 minutes
+Avg time per game: 94.8s
+================================================================================
