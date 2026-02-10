@@ -1,0 +1,224 @@
+Starting 200-game Draughts ablation tournament (Zone-Guided MCVS vs standard UCT)
+Game   1/200 | UCT        (moves=116) | MCVS wins:   0 | Draws:   0 | Zone DB size: 36 | ETA: 599.2 min
+Game   2/200 | MCVS       (moves= 68) | MCVS wins:   1 | Draws:   0 | Zone DB size: 61 | ETA: 472.4 min
+Game   3/200 | UCT        (moves=112) | MCVS wins:   1 | Draws:   0 | Zone DB size: 94 | ETA: 504.1 min
+Game   4/200 | MCVS       (moves=132) | MCVS wins:   2 | Draws:   0 | Zone DB size: 124 | ETA: 544.1 min
+Game   5/200 | UCT        (moves= 92) | MCVS wins:   2 | Draws:   0 | Zone DB size: 155 | ETA: 526.1 min
+Game   6/200 | UCT        (moves=103) | MCVS wins:   2 | Draws:   0 | Zone DB size: 194 | ETA: 522.4 min
+Game   7/200 | UCT        (moves= 50) | MCVS wins:   2 | Draws:   0 | Zone DB size: 213 | ETA: 481.2 min
+Game   8/200 | MCVS       (moves=104) | MCVS wins:   3 | Draws:   0 | Zone DB size: 247 | ETA: 483.9 min
+Game   9/200 | UCT        (moves=136) | MCVS wins:   3 | Draws:   0 | Zone DB size: 291 | ETA: 502.8 min
+Game  10/200 | MCVS       (moves= 94) | MCVS wins:   4 | Draws:   0 | Zone DB size: 322 | ETA: 496.5 min
+Game  11/200 | UCT        (moves= 46) | MCVS wins:   4 | Draws:   0 | Zone DB size: 337 | ETA: 469.6 min
+Game  12/200 | UCT        (moves=103) | MCVS wins:   4 | Draws:   0 | Zone DB size: 375 | ETA: 470.1 min
+Game  13/200 | UCT        (moves= 58) | MCVS wins:   4 | Draws:   0 | Zone DB size: 395 | ETA: 453.4 min
+Game  14/200 | UCT        (moves= 91) | MCVS wins:   4 | Draws:   0 | Zone DB size: 421 | ETA: 450.1 min
+Game  15/200 | UCT        (moves= 72) | MCVS wins:   4 | Draws:   0 | Zone DB size: 445 | ETA: 440.9 min
+Game  16/200 | UCT        (moves= 51) | MCVS wins:   4 | Draws:   0 | Zone DB size: 456 | ETA: 426.4 min
+Game  17/200 | UCT        (moves= 52) | MCVS wins:   4 | Draws:   0 | Zone DB size: 471 | ETA: 413.7 min
+Game  18/200 | UCT        (moves= 41) | MCVS wins:   4 | Draws:   0 | Zone DB size: 483 | ETA: 399.4 min
+Game  19/200 | UCT        (moves= 90) | MCVS wins:   4 | Draws:   0 | Zone DB size: 510 | ETA: 398.6 min
+Game  20/200 | UCT        (moves= 55) | MCVS wins:   4 | Draws:   0 | Zone DB size: 530 | ETA: 389.4 min
+Game  21/200 | MCVS       (moves= 51) | MCVS wins:   5 | Draws:   0 | Zone DB size: 544 | ETA: 380.1 min
+Game  22/200 | UCT        (moves=135) | MCVS wins:   5 | Draws:   0 | Zone DB size: 586 | ETA: 389.2 min
+Game  23/200 | UCT        (moves= 54) | MCVS wins:   5 | Draws:   0 | Zone DB size: 607 | ETA: 381.0 min
+Game  24/200 | Draw       (moves=150) | MCVS wins:   5 | Draws:   1 | Zone DB size: 657 | ETA: 391.6 min
+Game  25/200 | UCT        (moves= 98) | MCVS wins:   5 | Draws:   1 | Zone DB size: 683 | ETA: 391.6 min
+Game  26/200 | UCT        (moves=139) | MCVS wins:   5 | Draws:   1 | Zone DB size: 720 | ETA: 398.6 min
+Game  27/200 | UCT        (moves= 46) | MCVS wins:   5 | Draws:   1 | Zone DB size: 736 | ETA: 389.3 min
+Game  28/200 | UCT        (moves= 41) | MCVS wins:   5 | Draws:   1 | Zone DB size: 748 | ETA: 379.7 min
+Game  29/200 | MCVS       (moves=103) | MCVS wins:   6 | Draws:   1 | Zone DB size: 780 | ETA: 380.3 min
+Game  30/200 | UCT        (moves= 45) | MCVS wins:   6 | Draws:   1 | Zone DB size: 798 | ETA: 372.1 min
+Game  31/200 | UCT        (moves= 54) | MCVS wins:   6 | Draws:   1 | Zone DB size: 815 | ETA: 365.7 min
+Game  32/200 | MCVS       (moves= 54) | MCVS wins:   7 | Draws:   1 | Zone DB size: 832 | ETA: 359.5 min
+Game  33/200 | UCT        (moves= 40) | MCVS wins:   7 | Draws:   1 | Zone DB size: 841 | ETA: 351.8 min
+Game  34/200 | Draw       (moves=150) | MCVS wins:   7 | Draws:   2 | Zone DB size: 883 | ETA: 358.5 min
+Game  35/200 | UCT        (moves=102) | MCVS wins:   7 | Draws:   2 | Zone DB size: 916 | ETA: 358.6 min
+Game  36/200 | MCVS       (moves= 42) | MCVS wins:   8 | Draws:   2 | Zone DB size: 930 | ETA: 351.6 min
+Game  37/200 | Draw       (moves=150) | MCVS wins:   8 | Draws:   3 | Zone DB size: 973 | ETA: 357.2 min
+Game  38/200 | UCT        (moves= 57) | MCVS wins:   8 | Draws:   3 | Zone DB size: 994 | ETA: 352.0 min
+Game  39/200 | UCT        (moves= 66) | MCVS wins:   8 | Draws:   3 | Zone DB size: 1,018 | ETA: 347.9 min
+Game  40/200 | UCT        (moves= 41) | MCVS wins:   8 | Draws:   3 | Zone DB size: 1,032 | ETA: 341.4 min
+Game  41/200 | UCT        (moves= 48) | MCVS wins:   8 | Draws:   3 | Zone DB size: 1,051 | ETA: 335.8 min
+Game  42/200 | MCVS       (moves= 44) | MCVS wins:   9 | Draws:   3 | Zone DB size: 1,061 | ETA: 330.1 min
+Game  43/200 | UCT        (moves= 38) | MCVS wins:   9 | Draws:   3 | Zone DB size: 1,077 | ETA: 324.0 min
+Game  44/200 | UCT        (moves= 51) | MCVS wins:   9 | Draws:   3 | Zone DB size: 1,094 | ETA: 319.3 min
+Game  45/200 | Draw       (moves=150) | MCVS wins:   9 | Draws:   4 | Zone DB size: 1,142 | ETA: 323.6 min
+Game  46/200 | UCT        (moves= 49) | MCVS wins:   9 | Draws:   4 | Zone DB size: 1,159 | ETA: 318.8 min
+Game  47/200 | UCT        (moves= 48) | MCVS wins:   9 | Draws:   4 | Zone DB size: 1,178 | ETA: 314.1 min
+Game  48/200 | UCT        (moves= 75) | MCVS wins:   9 | Draws:   4 | Zone DB size: 1,195 | ETA: 311.7 min
+Game  49/200 | MCVS       (moves= 41) | MCVS wins:  10 | Draws:   4 | Zone DB size: 1,207 | ETA: 306.7 min
+Game  50/200 | MCVS       (moves= 96) | MCVS wins:  11 | Draws:   4 | Zone DB size: 1,230 | ETA: 306.0 min
+Game  51/200 | UCT        (moves= 46) | MCVS wins:  11 | Draws:   4 | Zone DB size: 1,245 | ETA: 301.6 min
+Game  52/200 | UCT        (moves= 49) | MCVS wins:  11 | Draws:   4 | Zone DB size: 1,263 | ETA: 297.4 min
+Game  53/200 | UCT        (moves= 94) | MCVS wins:  11 | Draws:   4 | Zone DB size: 1,302 | ETA: 296.6 min
+Game  54/200 | UCT        (moves=111) | MCVS wins:  11 | Draws:   4 | Zone DB size: 1,333 | ETA: 297.0 min
+Game  55/200 | UCT        (moves= 68) | MCVS wins:  11 | Draws:   4 | Zone DB size: 1,357 | ETA: 294.3 min
+Game  56/200 | UCT        (moves= 53) | MCVS wins:  11 | Draws:   4 | Zone DB size: 1,383 | ETA: 290.6 min
+Game  57/200 | UCT        (moves= 92) | MCVS wins:  11 | Draws:   4 | Zone DB size: 1,404 | ETA: 289.5 min
+Game  58/200 | MCVS       (moves= 48) | MCVS wins:  12 | Draws:   4 | Zone DB size: 1,423 | ETA: 285.6 min
+Game  59/200 | UCT        (moves= 48) | MCVS wins:  12 | Draws:   4 | Zone DB size: 1,440 | ETA: 281.8 min
+Game  60/200 | MCVS       (moves= 94) | MCVS wins:  13 | Draws:   4 | Zone DB size: 1,469 | ETA: 280.8 min
+Game  61/200 | MCVS       (moves=121) | MCVS wins:  14 | Draws:   4 | Zone DB size: 1,506 | ETA: 281.4 min
+Game  62/200 | UCT        (moves= 49) | MCVS wins:  14 | Draws:   4 | Zone DB size: 1,521 | ETA: 277.7 min
+Game  63/200 | UCT        (moves=110) | MCVS wins:  14 | Draws:   4 | Zone DB size: 1,557 | ETA: 277.6 min
+Game  64/200 | UCT        (moves= 59) | MCVS wins:  14 | Draws:   4 | Zone DB size: 1,579 | ETA: 274.5 min
+Game  65/200 | UCT        (moves= 44) | MCVS wins:  14 | Draws:   4 | Zone DB size: 1,597 | ETA: 270.7 min
+Game  66/200 | UCT        (moves= 83) | MCVS wins:  14 | Draws:   4 | Zone DB size: 1,623 | ETA: 269.0 min
+Game  67/200 | Draw       (moves=150) | MCVS wins:  14 | Draws:   5 | Zone DB size: 1,664 | ETA: 270.7 min
+Game  68/200 | Draw       (moves=150) | MCVS wins:  14 | Draws:   6 | Zone DB size: 1,712 | ETA: 272.3 min
+Game  69/200 | Draw       (moves=150) | MCVS wins:  14 | Draws:   7 | Zone DB size: 1,755 | ETA: 273.7 min
+Game  70/200 | UCT        (moves= 53) | MCVS wins:  14 | Draws:   7 | Zone DB size: 1,768 | ETA: 270.3 min
+Game  71/200 | UCT        (moves= 34) | MCVS wins:  14 | Draws:   7 | Zone DB size: 1,780 | ETA: 266.1 min
+Game  72/200 | MCVS       (moves=136) | MCVS wins:  15 | Draws:   7 | Zone DB size: 1,820 | ETA: 266.7 min
+Game  73/200 | Draw       (moves=150) | MCVS wins:  15 | Draws:   8 | Zone DB size: 1,862 | ETA: 267.7 min
+Game  74/200 | MCVS       (moves=114) | MCVS wins:  16 | Draws:   8 | Zone DB size: 1,897 | ETA: 267.1 min
+Game  75/200 | UCT        (moves= 42) | MCVS wins:  16 | Draws:   8 | Zone DB size: 1,910 | ETA: 263.3 min
+Game  76/200 | Draw       (moves=150) | MCVS wins:  16 | Draws:   9 | Zone DB size: 1,954 | ETA: 264.1 min
+Game  77/200 | UCT        (moves= 52) | MCVS wins:  16 | Draws:   9 | Zone DB size: 1,977 | ETA: 260.7 min
+Game  78/200 | UCT        (moves= 35) | MCVS wins:  16 | Draws:   9 | Zone DB size: 1,989 | ETA: 256.7 min
+Game  79/200 | UCT        (moves= 88) | MCVS wins:  16 | Draws:   9 | Zone DB size: 2,021 | ETA: 254.9 min
+Game  80/200 | UCT        (moves= 43) | MCVS wins:  16 | Draws:   9 | Zone DB size: 2,038 | ETA: 251.3 min
+Game  81/200 | UCT        (moves= 44) | MCVS wins:  16 | Draws:   9 | Zone DB size: 2,053 | ETA: 247.9 min
+Game  82/200 | UCT        (moves= 83) | MCVS wins:  16 | Draws:   9 | Zone DB size: 2,076 | ETA: 245.9 min
+Game  83/200 | UCT        (moves=116) | MCVS wins:  16 | Draws:   9 | Zone DB size: 2,106 | ETA: 245.1 min
+Game  84/200 | MCVS       (moves= 54) | MCVS wins:  17 | Draws:   9 | Zone DB size: 2,121 | ETA: 242.1 min
+Game  85/200 | UCT        (moves=144) | MCVS wins:  17 | Draws:   9 | Zone DB size: 2,165 | ETA: 242.2 min
+Game  86/200 | MCVS       (moves= 98) | MCVS wins:  18 | Draws:   9 | Zone DB size: 2,192 | ETA: 240.7 min
+Game  87/200 | UCT        (moves= 64) | MCVS wins:  18 | Draws:   9 | Zone DB size: 2,208 | ETA: 238.0 min
+Game  88/200 | UCT        (moves=107) | MCVS wins:  18 | Draws:   9 | Zone DB size: 2,243 | ETA: 236.8 min
+Game  89/200 | MCVS       (moves= 31) | MCVS wins:  19 | Draws:   9 | Zone DB size: 2,255 | ETA: 233.1 min
+Game  90/200 | MCVS       (moves= 94) | MCVS wins:  20 | Draws:   9 | Zone DB size: 2,296 | ETA: 231.4 min
+Game  91/200 | MCVS       (moves= 49) | MCVS wins:  21 | Draws:   9 | Zone DB size: 2,317 | ETA: 228.3 min
+Game  92/200 | Draw       (moves=150) | MCVS wins:  21 | Draws:  10 | Zone DB size: 2,355 | ETA: 228.4 min
+Game  93/200 | MCVS       (moves= 95) | MCVS wins:  22 | Draws:  10 | Zone DB size: 2,387 | ETA: 226.7 min
+Game  94/200 | UCT        (moves= 53) | MCVS wins:  22 | Draws:  10 | Zone DB size: 2,412 | ETA: 223.7 min
+Game  95/200 | MCVS       (moves= 65) | MCVS wins:  23 | Draws:  10 | Zone DB size: 2,435 | ETA: 221.1 min
+Game  96/200 | UCT        (moves= 49) | MCVS wins:  23 | Draws:  10 | Zone DB size: 2,453 | ETA: 218.2 min
+Game  97/200 | UCT        (moves= 92) | MCVS wins:  23 | Draws:  10 | Zone DB size: 2,482 | ETA: 216.4 min
+Game  98/200 | Draw       (moves=150) | MCVS wins:  23 | Draws:  11 | Zone DB size: 2,529 | ETA: 216.2 min
+Game  99/200 | UCT        (moves= 80) | MCVS wins:  23 | Draws:  11 | Zone DB size: 2,548 | ETA: 214.0 min
+Game 100/200 | UCT        (moves= 65) | MCVS wins:  23 | Draws:  11 | Zone DB size: 2,568 | ETA: 211.5 min
+Game 101/200 | UCT        (moves=138) | MCVS wins:  23 | Draws:  11 | Zone DB size: 2,606 | ETA: 210.8 min
+Game 102/200 | MCVS       (moves= 58) | MCVS wins:  24 | Draws:  11 | Zone DB size: 2,631 | ETA: 208.1 min
+Game 103/200 | MCVS       (moves= 49) | MCVS wins:  25 | Draws:  11 | Zone DB size: 2,649 | ETA: 205.2 min
+Game 104/200 | UCT        (moves= 93) | MCVS wins:  25 | Draws:  11 | Zone DB size: 2,675 | ETA: 203.4 min
+Game 105/200 | UCT        (moves= 96) | MCVS wins:  25 | Draws:  11 | Zone DB size: 2,708 | ETA: 201.6 min
+Game 106/200 | MCVS       (moves=100) | MCVS wins:  26 | Draws:  11 | Zone DB size: 2,735 | ETA: 199.9 min
+Game 107/200 | UCT        (moves=144) | MCVS wins:  26 | Draws:  11 | Zone DB size: 2,773 | ETA: 199.2 min
+Game 108/200 | UCT        (moves= 93) | MCVS wins:  26 | Draws:  11 | Zone DB size: 2,802 | ETA: 197.3 min
+Game 109/200 | UCT        (moves= 52) | MCVS wins:  26 | Draws:  11 | Zone DB size: 2,816 | ETA: 194.5 min
+Game 110/200 | Draw       (moves=150) | MCVS wins:  26 | Draws:  12 | Zone DB size: 2,860 | ETA: 193.8 min
+Game 111/200 | MCVS       (moves= 87) | MCVS wins:  27 | Draws:  12 | Zone DB size: 2,883 | ETA: 191.8 min
+Game 112/200 | MCVS       (moves= 46) | MCVS wins:  28 | Draws:  12 | Zone DB size: 2,904 | ETA: 188.9 min
+Game 113/200 | UCT        (moves=144) | MCVS wins:  28 | Draws:  12 | Zone DB size: 2,947 | ETA: 187.9 min
+Game 114/200 | UCT        (moves= 55) | MCVS wins:  28 | Draws:  12 | Zone DB size: 2,967 | ETA: 185.2 min
+Game 115/200 | UCT        (moves=116) | MCVS wins:  28 | Draws:  12 | Zone DB size: 3,009 | ETA: 183.7 min
+Game 116/200 | UCT        (moves= 49) | MCVS wins:  28 | Draws:  12 | Zone DB size: 3,025 | ETA: 180.9 min
+Game 117/200 | UCT        (moves= 40) | MCVS wins:  28 | Draws:  12 | Zone DB size: 3,036 | ETA: 178.0 min
+Game 118/200 | MCVS       (moves= 46) | MCVS wins:  29 | Draws:  12 | Zone DB size: 3,055 | ETA: 175.2 min
+Game 119/200 | UCT        (moves= 44) | MCVS wins:  29 | Draws:  12 | Zone DB size: 3,075 | ETA: 172.4 min
+Game 120/200 | UCT        (moves= 73) | MCVS wins:  29 | Draws:  12 | Zone DB size: 3,099 | ETA: 170.2 min
+Game 121/200 | UCT        (moves= 50) | MCVS wins:  29 | Draws:  12 | Zone DB size: 3,114 | ETA: 167.5 min
+Game 122/200 | UCT        (moves= 43) | MCVS wins:  29 | Draws:  12 | Zone DB size: 3,124 | ETA: 164.8 min
+Game 123/200 | MCVS       (moves=127) | MCVS wins:  30 | Draws:  12 | Zone DB size: 3,164 | ETA: 163.4 min
+Game 124/200 | UCT        (moves= 55) | MCVS wins:  30 | Draws:  12 | Zone DB size: 3,187 | ETA: 160.9 min
+Game 125/200 | UCT        (moves= 52) | MCVS wins:  30 | Draws:  12 | Zone DB size: 3,201 | ETA: 158.3 min
+Game 126/200 | UCT        (moves= 79) | MCVS wins:  30 | Draws:  12 | Zone DB size: 3,227 | ETA: 156.2 min
+Game 127/200 | UCT        (moves=100) | MCVS wins:  30 | Draws:  12 | Zone DB size: 3,255 | ETA: 154.3 min
+Game 128/200 | Draw       (moves=150) | MCVS wins:  30 | Draws:  13 | Zone DB size: 3,302 | ETA: 153.2 min
+Game 129/200 | UCT        (moves= 60) | MCVS wins:  30 | Draws:  13 | Zone DB size: 3,320 | ETA: 150.8 min
+Game 130/200 | UCT        (moves= 77) | MCVS wins:  30 | Draws:  13 | Zone DB size: 3,349 | ETA: 148.6 min
+Game 131/200 | UCT        (moves=100) | MCVS wins:  30 | Draws:  13 | Zone DB size: 3,378 | ETA: 146.8 min
+Game 132/200 | UCT        (moves= 45) | MCVS wins:  30 | Draws:  13 | Zone DB size: 3,393 | ETA: 144.2 min
+Game 133/200 | UCT        (moves= 50) | MCVS wins:  30 | Draws:  13 | Zone DB size: 3,409 | ETA: 141.6 min
+Game 134/200 | UCT        (moves=107) | MCVS wins:  30 | Draws:  13 | Zone DB size: 3,449 | ETA: 139.9 min
+Game 135/200 | MCVS       (moves= 81) | MCVS wins:  31 | Draws:  13 | Zone DB size: 3,474 | ETA: 137.7 min
+Game 136/200 | MCVS       (moves= 74) | MCVS wins:  32 | Draws:  13 | Zone DB size: 3,498 | ETA: 135.5 min
+Game 137/200 | UCT        (moves= 82) | MCVS wins:  32 | Draws:  13 | Zone DB size: 3,522 | ETA: 133.4 min
+Game 138/200 | UCT        (moves= 49) | MCVS wins:  32 | Draws:  13 | Zone DB size: 3,537 | ETA: 131.0 min
+Game 139/200 | UCT        (moves=102) | MCVS wins:  32 | Draws:  13 | Zone DB size: 3,569 | ETA: 129.1 min
+Game 140/200 | MCVS       (moves=112) | MCVS wins:  33 | Draws:  13 | Zone DB size: 3,599 | ETA: 127.3 min
+Game 141/200 | UCT        (moves= 44) | MCVS wins:  33 | Draws:  13 | Zone DB size: 3,614 | ETA: 124.8 min
+Game 142/200 | Draw       (moves=150) | MCVS wins:  33 | Draws:  14 | Zone DB size: 3,646 | ETA: 123.4 min
+Game 143/200 | MCVS       (moves= 71) | MCVS wins:  34 | Draws:  14 | Zone DB size: 3,668 | ETA: 121.2 min
+Game 144/200 | MCVS       (moves= 40) | MCVS wins:  35 | Draws:  14 | Zone DB size: 3,683 | ETA: 118.6 min
+Game 145/200 | UCT        (moves= 46) | MCVS wins:  35 | Draws:  14 | Zone DB size: 3,701 | ETA: 116.2 min
+Game 146/200 | UCT        (moves= 43) | MCVS wins:  35 | Draws:  14 | Zone DB size: 3,715 | ETA: 113.7 min
+Game 147/200 | UCT        (moves= 46) | MCVS wins:  35 | Draws:  14 | Zone DB size: 3,733 | ETA: 111.3 min
+Game 148/200 | UCT        (moves=109) | MCVS wins:  35 | Draws:  14 | Zone DB size: 3,768 | ETA: 109.5 min
+Game 149/200 | UCT        (moves= 46) | MCVS wins:  35 | Draws:  14 | Zone DB size: 3,783 | ETA: 107.0 min
+Game 150/200 | MCVS       (moves=110) | MCVS wins:  36 | Draws:  14 | Zone DB size: 3,821 | ETA: 105.2 min
+Game 151/200 | MCVS       (moves=125) | MCVS wins:  37 | Draws:  14 | Zone DB size: 3,861 | ETA: 103.5 min
+Game 152/200 | MCVS       (moves=102) | MCVS wins:  38 | Draws:  14 | Zone DB size: 3,898 | ETA: 101.5 min
+Game 153/200 | UCT        (moves= 70) | MCVS wins:  38 | Draws:  14 | Zone DB size: 3,918 | ETA: 99.3 min
+Game 154/200 | UCT        (moves=115) | MCVS wins:  38 | Draws:  14 | Zone DB size: 3,952 | ETA: 97.5 min
+Game 155/200 | Draw       (moves=150) | MCVS wins:  38 | Draws:  15 | Zone DB size: 3,995 | ETA: 95.9 min
+Game 156/200 | UCT        (moves= 47) | MCVS wins:  38 | Draws:  15 | Zone DB size: 4,012 | ETA: 93.5 min
+Game 157/200 | MCVS       (moves= 43) | MCVS wins:  39 | Draws:  15 | Zone DB size: 4,027 | ETA: 91.1 min
+Game 158/200 | MCVS       (moves= 46) | MCVS wins:  40 | Draws:  15 | Zone DB size: 4,043 | ETA: 88.8 min
+Game 159/200 | UCT        (moves=100) | MCVS wins:  40 | Draws:  15 | Zone DB size: 4,069 | ETA: 86.8 min
+Game 160/200 | UCT        (moves= 53) | MCVS wins:  40 | Draws:  15 | Zone DB size: 4,088 | ETA: 84.5 min
+Game 161/200 | UCT        (moves= 42) | MCVS wins:  40 | Draws:  15 | Zone DB size: 4,103 | ETA: 82.1 min
+Game 162/200 | MCVS       (moves=106) | MCVS wins:  41 | Draws:  15 | Zone DB size: 4,139 | ETA: 80.2 min
+Game 163/200 | MCVS       (moves= 49) | MCVS wins:  42 | Draws:  15 | Zone DB size: 4,148 | ETA: 77.9 min
+Game 164/200 | UCT        (moves= 51) | MCVS wins:  42 | Draws:  15 | Zone DB size: 4,167 | ETA: 75.6 min
+Game 165/200 | MCVS       (moves=131) | MCVS wins:  43 | Draws:  15 | Zone DB size: 4,217 | ETA: 73.8 min
+Game 166/200 | MCVS       (moves= 48) | MCVS wins:  44 | Draws:  15 | Zone DB size: 4,237 | ETA: 71.5 min
+Game 167/200 | UCT        (moves= 76) | MCVS wins:  44 | Draws:  15 | Zone DB size: 4,257 | ETA: 69.4 min
+Game 168/200 | MCVS       (moves= 48) | MCVS wins:  45 | Draws:  15 | Zone DB size: 4,273 | ETA: 67.1 min
+Game 169/200 | UCT        (moves= 58) | MCVS wins:  45 | Draws:  15 | Zone DB size: 4,284 | ETA: 64.9 min
+Game 170/200 | MCVS       (moves=150) | MCVS wins:  46 | Draws:  15 | Zone DB size: 4,337 | ETA: 63.2 min
+Game 171/200 | MCVS       (moves= 87) | MCVS wins:  47 | Draws:  15 | Zone DB size: 4,364 | ETA: 61.1 min
+Game 172/200 | MCVS       (moves= 86) | MCVS wins:  48 | Draws:  15 | Zone DB size: 4,393 | ETA: 59.0 min
+Game 173/200 | MCVS       (moves= 85) | MCVS wins:  49 | Draws:  15 | Zone DB size: 4,423 | ETA: 56.9 min
+Game 174/200 | MCVS       (moves= 62) | MCVS wins:  50 | Draws:  15 | Zone DB size: 4,445 | ETA: 54.7 min
+Game 175/200 | MCVS       (moves= 89) | MCVS wins:  51 | Draws:  15 | Zone DB size: 4,469 | ETA: 52.7 min
+Game 176/200 | MCVS       (moves= 46) | MCVS wins:  52 | Draws:  15 | Zone DB size: 4,488 | ETA: 50.4 min
+Game 177/200 | UCT        (moves= 82) | MCVS wins:  52 | Draws:  15 | Zone DB size: 4,510 | ETA: 48.3 min
+Game 178/200 | MCVS       (moves= 78) | MCVS wins:  53 | Draws:  15 | Zone DB size: 4,539 | ETA: 46.2 min
+Game 179/200 | MCVS       (moves= 59) | MCVS wins:  54 | Draws:  15 | Zone DB size: 4,561 | ETA: 44.1 min
+Game 180/200 | UCT        (moves= 53) | MCVS wins:  54 | Draws:  15 | Zone DB size: 4,577 | ETA: 41.9 min
+Game 181/200 | Draw       (moves=150) | MCVS wins:  54 | Draws:  16 | Zone DB size: 4,621 | ETA: 40.0 min
+Game 182/200 | UCT        (moves=139) | MCVS wins:  54 | Draws:  16 | Zone DB size: 4,661 | ETA: 38.0 min
+Game 183/200 | UCT        (moves= 52) | MCVS wins:  54 | Draws:  16 | Zone DB size: 4,674 | ETA: 35.9 min
+Game 184/200 | UCT        (moves= 39) | MCVS wins:  54 | Draws:  16 | Zone DB size: 4,689 | ETA: 33.7 min
+Game 185/200 | MCVS       (moves= 55) | MCVS wins:  55 | Draws:  16 | Zone DB size: 4,705 | ETA: 31.5 min
+Game 186/200 | UCT        (moves= 45) | MCVS wins:  55 | Draws:  16 | Zone DB size: 4,720 | ETA: 29.3 min
+Game 187/200 | UCT        (moves= 94) | MCVS wins:  55 | Draws:  16 | Zone DB size: 4,738 | ETA: 27.3 min
+Game 188/200 | MCVS       (moves= 80) | MCVS wins:  56 | Draws:  16 | Zone DB size: 4,761 | ETA: 25.2 min
+Game 189/200 | UCT        (moves= 76) | MCVS wins:  56 | Draws:  16 | Zone DB size: 4,780 | ETA: 23.1 min
+Game 190/200 | UCT        (moves= 49) | MCVS wins:  56 | Draws:  16 | Zone DB size: 4,794 | ETA: 20.9 min
+Game 191/200 | UCT        (moves= 50) | MCVS wins:  56 | Draws:  16 | Zone DB size: 4,809 | ETA: 18.8 min
+Game 192/200 | MCVS       (moves=138) | MCVS wins:  57 | Draws:  16 | Zone DB size: 4,865 | ETA: 16.8 min
+Game 193/200 | UCT        (moves= 42) | MCVS wins:  57 | Draws:  16 | Zone DB size: 4,878 | ETA: 14.6 min
+Game 194/200 | UCT        (moves= 57) | MCVS wins:  57 | Draws:  16 | Zone DB size: 4,897 | ETA: 12.5 min
+Game 195/200 | UCT        (moves= 96) | MCVS wins:  57 | Draws:  16 | Zone DB size: 4,926 | ETA: 10.5 min
+Game 196/200 | Draw       (moves=150) | MCVS wins:  57 | Draws:  17 | Zone DB size: 4,970 | ETA: 8.4 min
+Game 197/200 | MCVS       (moves= 85) | MCVS wins:  58 | Draws:  17 | Zone DB size: 4,998 | ETA: 6.3 min
+Game 198/200 | UCT        (moves= 97) | MCVS wins:  58 | Draws:  17 | Zone DB size: 5,023 | ETA: 4.2 min
+Game 199/200 | UCT        (moves= 72) | MCVS wins:  58 | Draws:  17 | Zone DB size: 5,048 | ETA: 2.1 min
+Game 200/200 | UCT        (moves= 45) | MCVS wins:  58 | Draws:  17 | Zone DB size: 5,061 | ETA: 0.0 min
+
+================================================================================
+DRAUGHTS ABLATION TOURNAMENT SUMMARY (ZONE GUIDANCE ONLY - NO NEURAL NETS)
+================================================================================
+
+MCVS (Zone-Guided PUCT): 58 wins
+UCT (standard UCB): 125 wins
+Draws: 17
+Total: 200
+
+MCVS Win Rate (excluding draws): 31.7%
+Avg moves (MCVS wins): 79.8
+Avg moves (UCT wins): 70.9
+
+MCVS White: 23, Black: 35
+UCT White: 55, Black: 70
+
+Final Zone Database: 5,061 positions
+
+================================================================================
+Tournament Duration: 419.4 minutes
+Avg time per game: 125.8s
+================================================================================
