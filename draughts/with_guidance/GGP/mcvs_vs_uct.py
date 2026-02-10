@@ -1,13 +1,3 @@
-# filename: mcvs_vs_uct.py
-"""
-DRAUGHTS MCVS vs UCT TOURNAMENT - 200 GAMES WITH DETAILED LOGGING
-
-Exact analogue of the Breakthrough tournament script, fully adapted for Draughts.
-- Zone database saved AFTER EVERY GAME
-- Detailed per-game training logging
-- Progressive learning shown in console and logs
-"""
-
 import torch
 import numpy as np
 import os
