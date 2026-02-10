@@ -1,0 +1,421 @@
+====================================================================================================
+BREAKTHROUGH TOURNAMENT - LEARNING PHASE LOG
+Started: 2026-02-07 10:12:43
+====================================================================================================
+
+
+====================================================================================================
+INITIAL TRAINING (Game 1)
+====================================================================================================
+Training examples: 67
+Epochs: 10
+Training time: 8.09s
+Zone guidance enabled: λ = 1.0
+====================================================================================================
+
+→ Queued training data from game 2 (71 examples)
+✓ Completed training on game 2 data (71 examples) in 11.17s
+→ Queued training data from game 3 (82 examples)
+✓ Completed training on game 3 data (82 examples) in 12.42s
+→ Queued training data from game 4 (69 examples)
+✓ Completed training on game 4 data (69 examples) in 11.27s
+→ Queued training data from game 5 (88 examples)
+✓ Completed training on game 5 data (88 examples) in 12.96s
+→ Queued training data from game 6 (51 examples)
+✓ Completed training on game 6 data (51 examples) in 7.94s
+→ Queued training data from game 7 (69 examples)
+✓ Completed training on game 7 data (69 examples) in 10.67s
+→ Queued training data from game 8 (59 examples)
+✓ Completed training on game 8 data (59 examples) in 8.76s
+→ Queued training data from game 9 (43 examples)
+✓ Completed training on game 9 data (43 examples) in 7.64s
+→ Queued training data from game 10 (83 examples)
+✓ Completed training on game 10 data (83 examples) in 12.34s
+→ Queued training data from game 11 (56 examples)
+✓ Completed training on game 11 data (56 examples) in 8.55s
+→ Queued training data from game 12 (33 examples)
+✓ Completed training on game 12 data (33 examples) in 6.71s
+→ Queued training data from game 13 (80 examples)
+✓ Completed training on game 13 data (80 examples) in 12.51s
+→ Queued training data from game 14 (55 examples)
+✓ Completed training on game 14 data (55 examples) in 8.15s
+→ Queued training data from game 15 (66 examples)
+✓ Completed training on game 15 data (66 examples) in 10.91s
+→ Queued training data from game 16 (91 examples)
+✓ Completed training on game 16 data (91 examples) in 11.65s
+→ Queued training data from game 17 (94 examples)
+✓ Completed training on game 17 data (94 examples) in 18.17s
+→ Queued training data from game 18 (79 examples)
+✓ Completed training on game 18 data (79 examples) in 12.29s
+→ Queued training data from game 19 (96 examples)
+✓ Completed training on game 19 data (96 examples) in 11.77s
+→ Queued training data from game 20 (77 examples)
+✓ Completed training on game 20 data (77 examples) in 12.37s
+→ Queued training data from game 21 (93 examples)
+✓ Completed training on game 21 data (93 examples) in 11.62s
+→ Queued training data from game 22 (60 examples)
+✓ Completed training on game 22 data (60 examples) in 7.89s
+→ Queued training data from game 23 (93 examples)
+✓ Completed training on game 23 data (93 examples) in 11.73s
+→ Queued training data from game 24 (59 examples)
+✓ Completed training on game 24 data (59 examples) in 7.50s
+→ Queued training data from game 25 (83 examples)
+✓ Completed training on game 25 data (83 examples) in 11.37s
+→ Queued training data from game 26 (70 examples)
+✓ Completed training on game 26 data (70 examples) in 10.11s
+→ Queued training data from game 27 (57 examples)
+✓ Completed training on game 27 data (57 examples) in 8.45s
+→ Queued training data from game 28 (59 examples)
+✓ Completed training on game 28 data (59 examples) in 7.37s
+→ Queued training data from game 29 (72 examples)
+✓ Completed training on game 29 data (72 examples) in 10.52s
+→ Queued training data from game 30 (65 examples)
+✓ Completed training on game 30 data (65 examples) in 9.86s
+→ Queued training data from game 31 (85 examples)
+✓ Completed training on game 31 data (85 examples) in 12.03s
+→ Queued training data from game 32 (57 examples)
+✓ Completed training on game 32 data (57 examples) in 7.73s
+→ Queued training data from game 33 (72 examples)
+✓ Completed training on game 33 data (72 examples) in 10.74s
+→ Queued training data from game 34 (93 examples)
+✓ Completed training on game 34 data (93 examples) in 12.54s
+→ Queued training data from game 35 (64 examples)
+✓ Completed training on game 35 data (64 examples) in 8.22s
+→ Queued training data from game 36 (80 examples)
+✓ Completed training on game 36 data (80 examples) in 12.30s
+→ Queued training data from game 37 (67 examples)
+✓ Completed training on game 37 data (67 examples) in 11.04s
+→ Queued training data from game 38 (53 examples)
+✓ Completed training on game 38 data (53 examples) in 8.09s
+→ Queued training data from game 39 (88 examples)
+✓ Completed training on game 39 data (88 examples) in 11.54s
+→ Queued training data from game 40 (92 examples)
+✓ Completed training on game 40 data (92 examples) in 11.40s
+→ Queued training data from game 41 (38 examples)
+✓ Completed training on game 41 data (38 examples) in 6.63s
+→ Queued training data from game 42 (59 examples)
+✓ Completed training on game 42 data (59 examples) in 8.88s
+→ Queued training data from game 43 (93 examples)
+✓ Completed training on game 43 data (93 examples) in 11.69s
+→ Queued training data from game 44 (87 examples)
+✓ Completed training on game 44 data (87 examples) in 11.22s
+→ Queued training data from game 45 (28 examples)
+✓ Completed training on game 45 data (28 examples) in 4.39s
+→ Queued training data from game 46 (81 examples)
+✓ Completed training on game 46 data (81 examples) in 10.84s
+→ Queued training data from game 47 (76 examples)
+✓ Completed training on game 47 data (76 examples) in 10.98s
+→ Queued training data from game 48 (76 examples)
+✓ Completed training on game 48 data (76 examples) in 10.75s
+→ Queued training data from game 49 (83 examples)
+✓ Completed training on game 49 data (83 examples) in 12.82s
+→ Queued training data from game 50 (75 examples)
+✓ Completed training on game 50 data (75 examples) in 12.36s
+→ Queued training data from game 51 (50 examples)
+✓ Completed training on game 51 data (50 examples) in 8.13s
+→ Queued training data from game 52 (63 examples)
+✓ Completed training on game 52 data (63 examples) in 8.76s
+→ Queued training data from game 53 (40 examples)
+✓ Completed training on game 53 data (40 examples) in 7.55s
+→ Queued training data from game 54 (73 examples)
+✓ Completed training on game 54 data (73 examples) in 11.83s
+→ Queued training data from game 55 (87 examples)
+✓ Completed training on game 55 data (87 examples) in 12.44s
+→ Queued training data from game 56 (63 examples)
+✓ Completed training on game 56 data (63 examples) in 9.22s
+→ Queued training data from game 57 (75 examples)
+✓ Completed training on game 57 data (75 examples) in 11.89s
+→ Queued training data from game 58 (67 examples)
+✓ Completed training on game 58 data (67 examples) in 10.56s
+→ Queued training data from game 59 (81 examples)
+✓ Completed training on game 59 data (81 examples) in 12.22s
+→ Queued training data from game 60 (73 examples)
+✓ Completed training on game 60 data (73 examples) in 11.66s
+→ Queued training data from game 61 (97 examples)
+✓ Completed training on game 61 data (97 examples) in 15.00s
+→ Queued training data from game 62 (43 examples)
+✓ Completed training on game 62 data (43 examples) in 7.28s
+→ Queued training data from game 63 (85 examples)
+✓ Completed training on game 63 data (85 examples) in 12.99s
+→ Queued training data from game 64 (45 examples)
+✓ Completed training on game 64 data (45 examples) in 7.45s
+→ Queued training data from game 65 (86 examples)
+✓ Completed training on game 65 data (86 examples) in 12.42s
+→ Queued training data from game 66 (63 examples)
+✓ Completed training on game 66 data (63 examples) in 8.72s
+→ Queued training data from game 67 (54 examples)
+✓ Completed training on game 67 data (54 examples) in 8.40s
+→ Queued training data from game 68 (53 examples)
+✓ Completed training on game 68 data (53 examples) in 8.03s
+→ Queued training data from game 69 (83 examples)
+✓ Completed training on game 69 data (83 examples) in 13.13s
+→ Queued training data from game 70 (45 examples)
+✓ Completed training on game 70 data (45 examples) in 7.74s
+→ Queued training data from game 71 (42 examples)
+✓ Completed training on game 71 data (42 examples) in 7.68s
+→ Queued training data from game 72 (77 examples)
+✓ Completed training on game 72 data (77 examples) in 12.19s
+→ Queued training data from game 73 (87 examples)
+✓ Completed training on game 73 data (87 examples) in 13.13s
+→ Queued training data from game 74 (62 examples)
+✓ Completed training on game 74 data (62 examples) in 8.88s
+→ Queued training data from game 75 (43 examples)
+✓ Completed training on game 75 data (43 examples) in 7.64s
+→ Queued training data from game 76 (71 examples)
+✓ Completed training on game 76 data (71 examples) in 11.47s
+→ Queued training data from game 77 (95 examples)
+✓ Completed training on game 77 data (95 examples) in 13.72s
+→ Queued training data from game 78 (35 examples)
+✓ Completed training on game 78 data (35 examples) in 6.56s
+→ Queued training data from game 79 (94 examples)
+✓ Completed training on game 79 data (94 examples) in 13.58s
+→ Queued training data from game 80 (59 examples)
+✓ Completed training on game 80 data (59 examples) in 8.44s
+→ Queued training data from game 81 (78 examples)
+✓ Completed training on game 81 data (78 examples) in 11.98s
+→ Queued training data from game 82 (91 examples)
+✓ Completed training on game 82 data (91 examples) in 12.82s
+→ Queued training data from game 83 (70 examples)
+✓ Completed training on game 83 data (70 examples) in 11.61s
+→ Queued training data from game 84 (99 examples)
+✓ Completed training on game 84 data (99 examples) in 15.59s
+→ Queued training data from game 85 (52 examples)
+✓ Completed training on game 85 data (52 examples) in 8.38s
+→ Queued training data from game 86 (58 examples)
+✓ Completed training on game 86 data (58 examples) in 8.91s
+→ Queued training data from game 87 (90 examples)
+✓ Completed training on game 87 data (90 examples) in 13.36s
+→ Queued training data from game 88 (62 examples)
+✓ Completed training on game 88 data (62 examples) in 8.58s
+→ Queued training data from game 89 (89 examples)
+✓ Completed training on game 89 data (89 examples) in 13.30s
+→ Queued training data from game 90 (67 examples)
+✓ Completed training on game 90 data (67 examples) in 11.32s
+→ Queued training data from game 91 (56 examples)
+✓ Completed training on game 91 data (56 examples) in 8.84s
+→ Queued training data from game 92 (93 examples)
+✓ Completed training on game 92 data (93 examples) in 13.12s
+→ Queued training data from game 93 (50 examples)
+✓ Completed training on game 93 data (50 examples) in 8.27s
+→ Queued training data from game 94 (82 examples)
+✓ Completed training on game 94 data (82 examples) in 12.47s
+→ Queued training data from game 95 (87 examples)
+✓ Completed training on game 95 data (87 examples) in 12.93s
+→ Queued training data from game 96 (73 examples)
+✓ Completed training on game 96 data (73 examples) in 11.90s
+→ Queued training data from game 97 (46 examples)
+✓ Completed training on game 97 data (46 examples) in 8.00s
+→ Queued training data from game 98 (54 examples)
+✓ Completed training on game 98 data (54 examples) in 8.28s
+→ Queued training data from game 99 (24 examples)
+✓ Completed training on game 99 data (24 examples) in 4.42s
+→ Queued training data from game 100 (44 examples)
+✓ Completed training on game 100 data (44 examples) in 7.43s
+→ Queued training data from game 101 (33 examples)
+✓ Completed training on game 101 data (33 examples) in 6.69s
+→ Queued training data from game 102 (55 examples)
+✓ Completed training on game 102 data (55 examples) in 8.67s
+→ Queued training data from game 103 (52 examples)
+✓ Completed training on game 103 data (52 examples) in 8.42s
+→ Queued training data from game 104 (63 examples)
+✓ Completed training on game 104 data (63 examples) in 9.00s
+→ Queued training data from game 105 (85 examples)
+✓ Completed training on game 105 data (85 examples) in 13.24s
+→ Queued training data from game 106 (81 examples)
+✓ Completed training on game 106 data (81 examples) in 12.72s
+→ Queued training data from game 107 (87 examples)
+✓ Completed training on game 107 data (87 examples) in 13.04s
+→ Queued training data from game 108 (37 examples)
+✓ Completed training on game 108 data (37 examples) in 6.92s
+→ Queued training data from game 109 (89 examples)
+✓ Completed training on game 109 data (89 examples) in 13.21s
+→ Queued training data from game 110 (86 examples)
+✓ Completed training on game 110 data (86 examples) in 12.74s
+→ Queued training data from game 111 (77 examples)
+✓ Completed training on game 111 data (77 examples) in 12.36s
+→ Queued training data from game 112 (62 examples)
+✓ Completed training on game 112 data (62 examples) in 8.86s
+→ Queued training data from game 113 (74 examples)
+✓ Completed training on game 113 data (74 examples) in 11.91s
+→ Queued training data from game 114 (87 examples)
+✓ Completed training on game 114 data (87 examples) in 12.71s
+→ Queued training data from game 115 (85 examples)
+✓ Completed training on game 115 data (85 examples) in 12.96s
+→ Queued training data from game 116 (63 examples)
+✓ Completed training on game 116 data (63 examples) in 8.95s
+→ Queued training data from game 117 (93 examples)
+✓ Completed training on game 117 data (93 examples) in 13.70s
+→ Queued training data from game 118 (37 examples)
+✓ Completed training on game 118 data (37 examples) in 6.72s
+→ Queued training data from game 119 (87 examples)
+✓ Completed training on game 119 data (87 examples) in 13.17s
+→ Queued training data from game 120 (77 examples)
+✓ Completed training on game 120 data (77 examples) in 12.10s
+→ Queued training data from game 121 (49 examples)
+✓ Completed training on game 121 data (49 examples) in 8.42s
+→ Queued training data from game 122 (92 examples)
+✓ Completed training on game 122 data (92 examples) in 13.29s
+→ Queued training data from game 123 (95 examples)
+✓ Completed training on game 123 data (95 examples) in 13.40s
+→ Queued training data from game 124 (73 examples)
+✓ Completed training on game 124 data (73 examples) in 11.81s
+→ Queued training data from game 125 (43 examples)
+✓ Completed training on game 125 data (43 examples) in 7.72s
+→ Queued training data from game 126 (75 examples)
+✓ Completed training on game 126 data (75 examples) in 11.98s
+→ Queued training data from game 127 (83 examples)
+✓ Completed training on game 127 data (83 examples) in 12.72s
+→ Queued training data from game 128 (40 examples)
+✓ Completed training on game 128 data (40 examples) in 6.99s
+→ Queued training data from game 129 (97 examples)
+✓ Completed training on game 129 data (97 examples) in 16.06s
+→ Queued training data from game 130 (51 examples)
+✓ Completed training on game 130 data (51 examples) in 8.25s
+→ Queued training data from game 131 (61 examples)
+✓ Completed training on game 131 data (61 examples) in 8.63s
+→ Queued training data from game 132 (73 examples)
+✓ Completed training on game 132 data (73 examples) in 11.74s
+→ Queued training data from game 133 (61 examples)
+✓ Completed training on game 133 data (61 examples) in 8.77s
+→ Queued training data from game 134 (47 examples)
+✓ Completed training on game 134 data (47 examples) in 7.52s
+→ Queued training data from game 135 (85 examples)
+✓ Completed training on game 135 data (85 examples) in 13.01s
+→ Queued training data from game 136 (97 examples)
+✓ Completed training on game 136 data (97 examples) in 15.29s
+→ Queued training data from game 137 (94 examples)
+✓ Completed training on game 137 data (94 examples) in 13.88s
+→ Queued training data from game 138 (35 examples)
+✓ Completed training on game 138 data (35 examples) in 6.74s
+→ Queued training data from game 139 (77 examples)
+✓ Completed training on game 139 data (77 examples) in 12.09s
+→ Queued training data from game 140 (39 examples)
+✓ Completed training on game 140 data (39 examples) in 7.00s
+→ Queued training data from game 141 (53 examples)
+✓ Completed training on game 141 data (53 examples) in 8.41s
+→ Queued training data from game 142 (34 examples)
+✓ Completed training on game 142 data (34 examples) in 6.76s
+→ Queued training data from game 143 (71 examples)
+✓ Completed training on game 143 data (71 examples) in 11.82s
+→ Queued training data from game 144 (81 examples)
+✓ Completed training on game 144 data (81 examples) in 12.42s
+→ Queued training data from game 145 (67 examples)
+✓ Completed training on game 145 data (67 examples) in 11.27s
+→ Queued training data from game 146 (33 examples)
+✓ Completed training on game 146 data (33 examples) in 6.48s
+→ Queued training data from game 147 (98 examples)
+✓ Completed training on game 147 data (98 examples) in 15.86s
+→ Queued training data from game 148 (53 examples)
+✓ Completed training on game 148 data (53 examples) in 8.28s
+→ Queued training data from game 149 (65 examples)
+✓ Completed training on game 149 data (65 examples) in 10.83s
+→ Queued training data from game 150 (69 examples)
+✓ Completed training on game 150 data (69 examples) in 11.26s
+→ Queued training data from game 151 (39 examples)
+✓ Completed training on game 151 data (39 examples) in 7.29s
+→ Queued training data from game 152 (82 examples)
+✓ Completed training on game 152 data (82 examples) in 12.63s
+→ Queued training data from game 153 (97 examples)
+✓ Completed training on game 153 data (97 examples) in 14.84s
+→ Queued training data from game 154 (47 examples)
+✓ Completed training on game 154 data (47 examples) in 7.65s
+→ Queued training data from game 155 (82 examples)
+✓ Completed training on game 155 data (82 examples) in 12.61s
+→ Queued training data from game 156 (51 examples)
+✓ Completed training on game 156 data (51 examples) in 7.96s
+→ Queued training data from game 157 (64 examples)
+✓ Completed training on game 157 data (64 examples) in 9.20s
+→ Queued training data from game 158 (62 examples)
+✓ Completed training on game 158 data (62 examples) in 8.52s
+→ Queued training data from game 159 (66 examples)
+✓ Completed training on game 159 data (66 examples) in 11.23s
+→ Queued training data from game 160 (92 examples)
+✓ Completed training on game 160 data (92 examples) in 13.27s
+→ Queued training data from game 161 (80 examples)
+✓ Completed training on game 161 data (80 examples) in 12.61s
+→ Queued training data from game 162 (95 examples)
+✓ Completed training on game 162 data (95 examples) in 12.91s
+→ Queued training data from game 163 (78 examples)
+✓ Completed training on game 163 data (78 examples) in 12.53s
+→ Queued training data from game 164 (92 examples)
+✓ Completed training on game 164 data (92 examples) in 12.88s
+→ Queued training data from game 165 (58 examples)
+✓ Completed training on game 165 data (58 examples) in 8.74s
+→ Queued training data from game 166 (95 examples)
+✓ Completed training on game 166 data (95 examples) in 13.12s
+→ Queued training data from game 167 (57 examples)
+✓ Completed training on game 167 data (57 examples) in 8.65s
+→ Queued training data from game 168 (83 examples)
+✓ Completed training on game 168 data (83 examples) in 12.48s
+→ Queued training data from game 169 (93 examples)
+✓ Completed training on game 169 data (93 examples) in 13.64s
+→ Queued training data from game 170 (78 examples)
+✓ Completed training on game 170 data (78 examples) in 12.39s
+→ Queued training data from game 171 (87 examples)
+✓ Completed training on game 171 data (87 examples) in 12.84s
+→ Queued training data from game 172 (28 examples)
+✓ Completed training on game 172 data (28 examples) in 4.22s
+→ Queued training data from game 173 (62 examples)
+✓ Completed training on game 173 data (62 examples) in 9.28s
+→ Queued training data from game 174 (31 examples)
+✓ Completed training on game 174 data (31 examples) in 4.29s
+→ Queued training data from game 175 (41 examples)
+✓ Completed training on game 175 data (41 examples) in 7.58s
+→ Queued training data from game 176 (37 examples)
+✓ Completed training on game 176 data (37 examples) in 7.07s
+→ Queued training data from game 177 (86 examples)
+✓ Completed training on game 177 data (86 examples) in 13.29s
+→ Queued training data from game 178 (65 examples)
+✓ Completed training on game 178 data (65 examples) in 11.19s
+→ Queued training data from game 179 (55 examples)
+✓ Completed training on game 179 data (55 examples) in 8.65s
+→ Queued training data from game 180 (64 examples)
+✓ Completed training on game 180 data (64 examples) in 9.09s
+→ Queued training data from game 181 (83 examples)
+✓ Completed training on game 181 data (83 examples) in 12.86s
+→ Queued training data from game 182 (92 examples)
+✓ Completed training on game 182 data (92 examples) in 13.12s
+→ Queued training data from game 183 (82 examples)
+✓ Completed training on game 183 data (82 examples) in 12.67s
+→ Queued training data from game 184 (67 examples)
+✓ Completed training on game 184 data (67 examples) in 11.09s
+→ Queued training data from game 185 (70 examples)
+✓ Completed training on game 185 data (70 examples) in 11.67s
+→ Queued training data from game 186 (57 examples)
+✓ Completed training on game 186 data (57 examples) in 8.67s
+→ Queued training data from game 187 (80 examples)
+✓ Completed training on game 187 data (80 examples) in 12.47s
+→ Queued training data from game 188 (89 examples)
+✓ Completed training on game 188 data (89 examples) in 12.91s
+→ Queued training data from game 189 (75 examples)
+✓ Completed training on game 189 data (75 examples) in 12.00s
+→ Queued training data from game 190 (71 examples)
+✓ Completed training on game 190 data (71 examples) in 11.60s
+→ Queued training data from game 191 (39 examples)
+✓ Completed training on game 191 data (39 examples) in 7.49s
+→ Queued training data from game 192 (55 examples)
+✓ Completed training on game 192 data (55 examples) in 8.23s
+→ Queued training data from game 193 (84 examples)
+✓ Completed training on game 193 data (84 examples) in 12.62s
+→ Queued training data from game 194 (96 examples)
+✓ Completed training on game 194 data (96 examples) in 12.97s
+→ Queued training data from game 195 (77 examples)
+✓ Completed training on game 195 data (77 examples) in 12.30s
+→ Queued training data from game 196 (36 examples)
+✓ Completed training on game 196 data (36 examples) in 6.81s
+→ Queued training data from game 197 (88 examples)
+✓ Completed training on game 197 data (88 examples) in 13.09s
+→ Queued training data from game 198 (93 examples)
+✓ Completed training on game 198 data (93 examples) in 13.07s
+→ Queued training data from game 199 (72 examples)
+✓ Completed training on game 199 data (72 examples) in 11.91s
+→ Queued training data from game 200 (75 examples)
+✓ Completed training on game 200 data (75 examples) in 6.53s
+
+====================================================================================================
+FINAL TRAINING SUMMARY
+====================================================================================================
+Games learned from: 199
+Total training time: 35.1 minutes
+Avg time per game: 10.6s
+====================================================================================================
